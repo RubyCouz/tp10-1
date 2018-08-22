@@ -1,0 +1,26 @@
+body {
+    background: #12171C;
+    color: white;
+    text-align: center;
+}
+.modal-content, .modal-body {
+    background: #12171C;
+    color: white;
+}
+
+.container {
+    margin-top: 25px;
+}
+.col-sm-12-md-6-lg-6 {
+    width: 220px;
+}
+.error {
+    color: red;
+}
+.valid {
+    color: #ff7f11;
+}
+.btn {
+    background: #ff7f11;
+    color: black;
+}
